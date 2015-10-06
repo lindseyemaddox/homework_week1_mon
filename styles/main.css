@@ -1,0 +1,167 @@
+div.container {
+	max-width: 1246px;
+	width: 100%;
+	margin: 0 auto;
+}
+div.container2 {
+	max-width: 1246px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+div.container nav {
+	background-color: #560003;
+	padding: 10px 0;
+}
+div.container nav li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 10px;
+}
+div.container nav li a {
+	color: #fff;
+	text-decoration: none;
+}
+div.container nav li a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+div.container header div {
+	height: 385px;
+	background-color: #ed2204;
+}
+
+div.container section#main {
+	padding: 0 10px;
+}
+
+div.container #main article {
+	background-color: #560003;
+	height: 225px;
+	margin: 64px 0 32px;
+}
+
+div.container footer article#top {
+	height: 917px;
+	background-color: #240000;
+}
+
+div.container footer article#middle {
+	background-color: #a30504;
+	padding: 140px 32px 70px;
+}
+
+div.container footer article#middle div#inner {
+	background-color: #da7f7c;
+	height: 412px;
+}
+
+div.container footer article#bottom {
+	height: 204px;
+	background-color: #240000;
+}
+
+
+div.container2 nav {
+	background-color: #2d3e50;
+	padding: 20px 0;
+}
+div.container2 nav li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 10px;
+}
+div.container2 nav li a {
+	color: #fff;
+	text-decoration: none;
+}
+div.container2 nav li a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+div.container2 header div.main {
+	height: 630px;
+	background-color: #1f8dd6;
+	padding: 200px 0 0;
+}
+div.container2 header div.main div.top {
+	width: 50%;
+	margin: 0 auto 25px;
+}
+div.container2 header div.main div.top h1 {
+	border: 10px solid #fff;
+	padding: 45px 0;
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+}
+div.container2 header div.main div.middle {
+	background-color: #bee0f7;
+	height: 90px;
+	width: 50%;
+	margin: 0 auto 25px;
+}
+div.container2 header div.main div.bottom {
+	background-color: #fff;
+	height: 90px;
+	width: 30%;
+	margin: 0 auto;
+}
+div.container2 header article {
+	height: 90px;
+	background-color: #34495e;
+	margin: 90px 0;
+}
+
+div.container2 section#main {
+	padding: 0 10px;
+}
+div.container2 #main article {
+	background-color: #1f8dd6;
+	height: 225px;
+	margin: 64px 0 32px;
+}
+
+div.container2 #fullWidth {
+	padding: 50px;
+	background-color: #34495e;
+}
+div.container2 #fullWidth div.inner {
+	background-color: #909dab;
+	height: 750px;
+}
+
+div.container2 > article {
+	height: 90px;
+	background-color: #34495e;
+	margin: 90px 0;
+}
+
+section#bottom {
+	padding: 0 50px 50px;
+}
+section#bottom article {
+	margin-bottom: 35px;
+}
+section#bottom article.grey {
+	background-color: #7f8c8d;
+	height: 220px;
+}
+section#bottom article.grey.bigger {
+	height: 550px;
+}
+section#bottom article.blue {
+	background-color: #34495e;
+	height: 44px;
+}
+
+div.container2 footer {
+	background-color: #111111;
+	padding: 35px;
+}
+div.container2 footer article {
+	background-color: #7f8c8d;
+	height: 90px;
+}
